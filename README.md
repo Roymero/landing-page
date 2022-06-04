@@ -4,4 +4,4 @@
 # What I learned
 - Properly style page with CSS
 - Flexbox fundamentals and execution
-- HTML architecture and object placements
+- HTML architecture and object placements 
